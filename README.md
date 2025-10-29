@@ -1,4 +1,4 @@
-# Code-and-Tutorials-Saving
+# Ressources for ML and Data Analysis
 In this repository, I will put code I often use, as well as links to code, tutorials, and usefull courses. <br>
 I *hopefully* will add folders with collections of R code and python code for useful code, which I use regularly, or *should* use regularly... <br>
 Also, I will hopefully add some more links for useful repositories and other useful code and tutorials.
